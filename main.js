@@ -56,6 +56,8 @@ class SavingsAccount extends BankAccount {
       }
 }
 
+//Tests
+
 let myAccount = new BankAccount(123, "Connor");
 let jayAccount = new BankAccount(234, "Jay");
 let noeAccount = new BankAccount(345, "Noe");
